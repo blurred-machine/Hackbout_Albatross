@@ -1,7 +1,7 @@
 # Hackbout_Albatross
 This repository is a part of [**Hackbout Hackathon**](https://www.hackbout.tech)
 
-![Hackbout Logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fallevents.in%2Fbangalore%2Fhackbout-hackathon%2F200019053912458&psig=AOvVaw0kIE0TPUv35j4IvcF1ueIg&ust=1583446911343000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJio28vtgegCFQAAAAAdAAAAABAI)
+![Hackbout Logo](https://cdn7.allevents.in/banners/382f3250-4c60-11ea-bbd7-c18eaf9eba54-rimg-w512-h296-gmir?v=1581378673)
 
 ```
     void HackBout(){
