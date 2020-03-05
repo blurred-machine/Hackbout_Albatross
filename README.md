@@ -4,7 +4,7 @@ This repository is a part of [**Hackbout Hackathon**](https://www.hackbout.tech)
 In this project we have worked on implementing the **Dynamic Pricing Strategies** into the E-commerce domain. In this project we have worked on **Airbnb open dataset** provided for the **New York city**.
 
 
-> Steps for Implementation:
+## Steps for Implementation:
  - The Data source is taken from the open data published by Airbnb at their website.
  - The Data extracted and data wrangling is done to make the data clean and understandable to machine.
  - Exploratory Data Analysis(EDA) is performed using different graphical analysis to understand the insights from the data.
@@ -12,6 +12,10 @@ In this project we have worked on implementing the **Dynamic Pricing Strategies*
  - Now the clean data is used to implement Machine Learning training to the various regerssion models and the final ouptut is the R2 score from each model.
  - Total of 5 Regression models have been implemented, out of which Elastic Regression Model showed the least Loss score and out-performed the other models.
 
+
+## Final Result:
+
+[**RESULT**](https://drive.google.com/file/d/1QGWMm-xiGIXaWtZmGmBCdJvhVrayX3BW/view?usp=sharing)
 
 ```
     void HackBout(){
