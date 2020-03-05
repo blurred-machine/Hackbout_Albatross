@@ -1,6 +1,20 @@
 # Hackbout_Albatross
 This repository is a part of [**Hackbout Hackathon**](https://www.hackbout.tech)
 
+```
+    void HackBout(){
+        while (36Hrs){
+            If (Alive){
+                Print ("I ♥‿♥ Hacking at NMIT.");
+            }
+            else{
+                drink_redbull (get_wings);
+                continue;
+            }
+        }
+    }
+```
+
 In this project we have worked on implementing the **Dynamic Pricing Strategies** into the E-commerce domain. In this project we have worked on **Airbnb open dataset** provided for the **New York city**.
 
 
@@ -15,18 +29,5 @@ In this project we have worked on implementing the **Dynamic Pricing Strategies*
 
 ## Final Result:
 
-[**RESULT**](https://drive.google.com/file/d/1QGWMm-xiGIXaWtZmGmBCdJvhVrayX3BW/view?usp=sharing)
+<img src="https://drive.google.com/file/d/1QGWMm-xiGIXaWtZmGmBCdJvhVrayX3BW/view?usp=sharing.jpg" alt="alt text" width="200"/>
 
-```
-    void HackBout(){
-        while (36Hrs){
-            If (Alive){
-                Print ("I ♥‿♥ Hacking at NMIT.");
-            }
-            else{
-                drink_redbull (get_wings);
-                continue;
-            }
-        }
-    }
-```
