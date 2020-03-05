@@ -18,6 +18,14 @@ This repository is a part of [**Hackbout Hackathon**](https://www.hackbout.tech)
 In this project we have worked on implementing the **Dynamic Pricing Strategies** into the E-commerce domain. In this project we have worked on **Airbnb open dataset** provided for the **New York city**.
 
 
+### How to run the project?
+ - To run the project on local host the first requirement is a Python3.x environment.
+ - Secondly any of the IDE that support the python environment is required. (Jupyter Notebook used here).
+ - Clone the repository from the link [https://github.com/paras009/Hackbout_Albatross.git](https://github.com/paras009/Hackbout_Albatross.git)
+ - Run all the cells in .ipynb file by keeping the file structure as provided.
+ - The final result of the process will result in dynamic pricing of hotel room bookings.
+
+
 ### Steps for Implementation:
  - The data source is taken from the open data published by **Airbnb** at their official website.
  - For the data extracted, **wrangling** is done to make the data clean and understandable to machine.
