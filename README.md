@@ -29,5 +29,5 @@ In this project we have worked on implementing the **Dynamic Pricing Strategies*
 
 ## Final Result:
 
-<img src="https://drive.google.com/file/d/1QGWMm-xiGIXaWtZmGmBCdJvhVrayX3BW/view?usp=sharing" alt="alt text" width="200"/>
+<img src="results.png" alt="alt text" width="200"/>
 
